@@ -1,0 +1,13 @@
+/web/bundles/
+/web/media/
+
+/app/bootstrap*
+/app/cache/*
+/app/logs/*
+/app/config/parameters.yml
+
+/vendor/
+
+/.idea/
+/data/
+/composer.phar
