@@ -1,0 +1,11 @@
+oh_core_homepage:
+    path:     /
+    defaults: { _controller: OHCoreBundle:Core:Index }
+
+oh_core_Contacte:
+    path:     /Contacte
+    defaults: { _controller: OHCoreBundle:Core:Contacte }
+
+#oh_core_Contacte:
+#    path:     /Contacte
+#    defaults: { _controller: OHCoreBundle:Core:Contacte }
